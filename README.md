@@ -4,9 +4,9 @@ Convolutional Neural Networks for performing multi-class classification of image
 Early stopping is utilized to avoid overfitting while training.
 
 For the early stopping, the following patience values are tested:
-Patience (epochs) | Number of intermediate (dense) layers
-:-:
-0
-1
-2
-5
+Patience (epochs) |
+:-: |
+0 |
+1 |
+2 |
+5 |
